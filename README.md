@@ -45,7 +45,7 @@ Este proyecto consiste en la implementación de dos ejercicios utilizando Python
 - Ejemplos de Comandos Git:
 
   ```bash
-  git clone <>
+  git clone <https://github.com/krymar02/Labo6.git>
   git checkout -b ejercicio1
   git add .
   git commit -m "Agregando branch 1 para el Ejercicio 1"
